@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project is an IoT-based LPG gas leakage detection system built using the ESP32 microcontroller and MQ-2 gas sensor. The system continuously monitors gas levels and automatically shuts of
-f the gas regulator using a servo motor when a dangerous gas leak is detected.
+f the gas regulator using a servo motor wh
+en a dangerous gas leak is detected.
 
 
 The system also provides LED and buzzer alerts and displays real-time data on a web dashboard hosted by the ESP32.

@@ -7,6 +7,7 @@ f the gas regulator using a servo motor wh
 en a dangerous gas leak is detected.
 
 
+
 The system also provides LED and buzzer alerts and displays real-time data on a web dashboard hosted by the ESP32.
 
 This project improves safety in homes, kitchens, restaurants, and industrial environments where LPG gas is used.

@@ -1,6 +1,5 @@
 
 let ctx=document.getElementById('chart').getContext('2d');
-
 let chart=new Chart(ctx,{
 type:'line',
 data:{

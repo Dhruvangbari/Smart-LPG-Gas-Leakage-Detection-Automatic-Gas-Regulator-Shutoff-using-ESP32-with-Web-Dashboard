@@ -92,7 +92,6 @@ function closeGas(){
 fetch("/close");
 }
 </script>
-
 </body>
 </html>
 )rawliteral";

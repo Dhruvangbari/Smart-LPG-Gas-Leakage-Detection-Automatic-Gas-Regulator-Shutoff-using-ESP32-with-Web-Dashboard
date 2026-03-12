@@ -3,6 +3,7 @@
 An IoT-based LPG gas leakage detection system that automatically shuts off the gas regulator when a leak is detected.  
 The system uses an **ESP32 microcontroller**, **MQ-2 gas sensor**, **servo motor**, **LED**, and **buzzer** to detect gas leaks and prevent accidents.  
 
+
 A built-in **web dashboard** allows users to monitor gas levels in real time through WiFi.
 
 ---

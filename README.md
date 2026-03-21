@@ -6,6 +6,7 @@ The system uses an **ESP32 microcontroller**, **MQ-2 gas sensor**, **servo motor
 
 A built-in **web dashboard** allows users to monitor gas levels in real time through WiFi.
 
+
 ---
 
 # Key Features
